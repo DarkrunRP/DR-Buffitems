@@ -33,7 +33,7 @@
       ["useable"] = false,
       ["shouldClose"] = false,
       ["combinable"] = nil,
-      ["description"] = ""
+      ["description"] = "",
    },
    ["ruby_ring"] = {
       ["name"] = "ruby_ring",
@@ -45,7 +45,7 @@
       ["useable"] = false,
       ["shouldClose"] = false,
       ["combinable"] = nil,
-      ["description"] = ""
+      ["description"] = "",
    },
 
    ["sapphire_ring"] = {
@@ -58,7 +58,7 @@
       ["useable"] = false,
       ["shouldClose"] = false,
       ["combinable"] = nil,
-      ["description"] = ""
+      ["description"] = "",
    },
 
    ["emerald_ring"] = {
@@ -71,7 +71,7 @@
       ["useable"] = false,
       ["shouldClose"] = false,
       ["combinable"] = nil,
-      ["description"] = ""
+      ["description"] = "",
    },
    ["silver_ring"] = {
       ["name"] = "silver_ring",
@@ -83,7 +83,7 @@
       ["useable"] = false,
       ["shouldClose"] = false,
       ["combinable"] = nil,
-      ["description"] = ""
+      ["description"] = "",
    },
    ["diamond_ring_silver"] = {
       ["name"] = "diamond_ring_silver",
@@ -95,7 +95,7 @@
       ["useable"] = false,
       ["shouldClose"] = false,
       ["combinable"] = nil,
-      ["description"] = ""
+      ["description"] = "",
    },
    ["ruby_ring_silver"] = {
       ["name"] = "ruby_ring_silver",
@@ -107,7 +107,7 @@
       ["useable"] = false,
       ["shouldClose"] = false,
       ["combinable"] = nil,
-      ["description"] = ""
+      ["description"] = "",
    },
    ["sapphire_ring_silver"] = {
       ["name"] = "sapphire_ring_silver",
@@ -119,7 +119,7 @@
       ["useable"] = false,
       ["shouldClose"] = false,
       ["combinable"] = nil,
-      ["description"] = ""
+      ["description"] = "",
    },
    ["emerald_ring_silver"] = {
       ["name"] = "emerald_ring_silver",
@@ -131,7 +131,7 @@
       ["useable"] = false,
       ["shouldClose"] = false,
       ["combinable"] = nil,
-      ["description"] = ""
+      ["description"] = "",
    },
    ["goldchain"] = {
       ["name"] = "goldchain",
@@ -143,7 +143,7 @@
       ["useable"] = false,
       ["shouldClose"] = false,
       ["combinable"] = nil,
-      ["description"] = ""
+      ["description"] = "",
    },
    ["diamond_necklace"] = {
       ["name"] = "diamond_necklace",
@@ -155,7 +155,7 @@
       ["useable"] = false,
       ["shouldClose"] = false,
       ["combinable"] = nil,
-      ["description"] = ""
+      ["description"] = "",
    },
    ["ruby_necklace"] = {
       ["name"] = "ruby_necklace",
@@ -251,7 +251,7 @@
       ["useable"] = false,
       ["shouldClose"] = false,
       ["combinable"] = nil,
-      ["description"] = ""
+      ["description"] = "",
    },
    ["goldearring"] = {
       ["name"] = "goldearring",
@@ -263,7 +263,7 @@
       ["useable"] = false,
       ["shouldClose"] = false,
       ["combinable"] = nil,
-      ["description"] = ""
+      ["description"] = "",
    },
    ["diamond_earring"] = {
       ["name"] = "diamond_earring",
@@ -275,7 +275,7 @@
       ["useable"] = false,
       ["shouldClose"] = false,
       ["combinable"] = nil,
-      ["description"] = ""
+      ["description"] = "",
    },
    ["ruby_earring"] = {
       ["name"] = "ruby_earring",
@@ -287,7 +287,7 @@
       ["useable"] = false,
       ["shouldClose"] = false,
       ["combinable"] = nil,
-      ["description"] = ""
+      ["description"] = "",
    },
    ["sapphire_earring"] = {
       ["name"] = "sapphire_earring",
@@ -299,7 +299,7 @@
       ["useable"] = false,
       ["shouldClose"] = false,
       ["combinable"] = nil,
-      ["description"] = ""
+      ["description"] = "",
    },
    ["emerald_earring"] = {
       ["name"] = "emerald_earring",
@@ -311,7 +311,7 @@
       ["useable"] = false,
       ["shouldClose"] = false,
       ["combinable"] = nil,
-      ["description"] = ""
+      ["description"] = "",
    },
    ["silverearring"] = {
       ["name"] = "silverearring",
@@ -323,7 +323,7 @@
       ["useable"] = false,
       ["shouldClose"] = false,
       ["combinable"] = nil,
-      ["description"] = ""
+      ["description"] = "",
    },
    ["diamond_earring_silver"] = {
       ["name"] = "diamond_earring_silver",
@@ -335,7 +335,7 @@
       ["useable"] = false,
       ["shouldClose"] = false,
       ["combinable"] = nil,
-      ["description"] = ""
+      ["description"] = "",
    },
    ["ruby_earring_silver"] = {
       ["name"] = "ruby_earring_silver",
@@ -347,7 +347,7 @@
       ["useable"] = false,
       ["shouldClose"] = false,
       ["combinable"] = nil,
-      ["description"] = ""
+      ["description"] = "",
    },
    ["sapphire_earring_silver"] = {
       ["name"] = "sapphire_earring_silver",
@@ -359,7 +359,7 @@
       ["useable"] = false,
       ["shouldClose"] = false,
       ["combinable"] = nil,
-      ["description"] = ""
+      ["description"] = "",
    },
    ["emerald_earring_silver"] = {
       ["name"] = "emerald_earring_silver",
@@ -371,7 +371,7 @@
       ["useable"] = false,
       ["shouldClose"] = false,
       ["combinable"] = nil,
-      ["description"] = ""
+      ["description"] = "",
    },
     ['dr_goldchain'] = {
       ['name'] = 'dr_goldchain',
@@ -383,7 +383,7 @@
       ['useable'] = false,
       ['shouldClose'] = true,
       ['combinable'] = nil,
-      ['description'] = ''
+      ['description'] = '',
     },
 }
     ```
