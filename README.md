@@ -21,7 +21,7 @@
       ["useable"] = false,
       ["shouldClose"] = false,
       ["combinable"] = nil,
-      ["description"] = ""
+      ["description"] = "",
    },
    ["dr_diamond_ring"] = {
       ["name"] = "dr_diamond_ring",
