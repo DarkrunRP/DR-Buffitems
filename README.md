@@ -9,8 +9,7 @@
 
 ## add items to qb-core/shared/items.lua
 
-    ```lua
-    QBCore.shared.items = {
+```lua
     ["gold_ring"] = {
       ["name"] = "gold_ring",
       ["label"] = "Gold Ring",
@@ -385,8 +384,8 @@
       ['combinable'] = nil,
       ['description'] = '',
     },
-}
-    ```
+
+```
 ## if you want jewlery degradation add the folowing to qb-inventory/server/main.lua at aproximatley line 2382 or  lj-inventory/server/main.lua at aproximatley line 2060
 ## for any item you make you can copy the same format to add uses.
 
